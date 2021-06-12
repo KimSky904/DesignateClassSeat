@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="tableStroke">#1F6F23</color>
     <color name="tableSolid">#79B64E</color>
+    <color name="startButton">#76DD0F</color>
 </resources>
